@@ -1,0 +1,6 @@
+.col-md-4 img {
+	width: 100%;
+}
+.caroussel-inner > .item > img {
+	margin: 0 auto;
+}

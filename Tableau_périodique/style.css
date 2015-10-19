@@ -1,0 +1,80 @@
+.blue {
+	background: blue;
+}
+
+.green {
+	background: green;
+}
+
+.vide {
+	background: transparent;
+}
+
+.red {
+	background: red;
+}
+
+.lightsalmon {
+	background: lightsalmon;
+
+}
+
+.darkseagreen {
+	background: darkseagreen;
+
+}
+
+.yellow {
+	background: yellow;
+
+}
+
+.mediumpurple {
+	background: mediumpurple;
+
+}
+
+.lightpink {
+	background: lightpink;
+
+}
+
+.plum {
+	background: plum;
+
+}
+
+.mediumorchid {
+	background: mediumorchid
+
+}
+
+.col-md-1 {
+	text-align: center;
+	border-collapse: separate;
+    border-spacing: 5px;
+}
+
+.silver {
+	background: silver;
+
+}
+ .primord {
+ 	border-style: solid;
+ 	border-width: 2px;
+ }
+
+ .radioact {
+ 	border-style: dashed;
+ 	border-width: 2px;
+ }
+
+ .synthetic {
+ 	border-style: dotted; 
+    border-width: 2px;
+ }
+
+.row {
+	line-height: 15px;
+	border-spacing: 2px;
+}
